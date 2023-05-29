@@ -16,7 +16,7 @@ try:
 except:
     pass
 
-## Getting current scoreboard from DEFCON offical website, commented sice it's offline now
+## Getting current scoreboard from DEFCON offical website, commented since it's offline now
 # tick_log = dict()
 # tick = datetime.now()
 # res = requests.get('https://quals.2023.nautilus.institute/scoreboard/complete')
